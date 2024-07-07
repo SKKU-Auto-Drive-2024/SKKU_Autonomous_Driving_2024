@@ -1,0 +1,25 @@
+running develop
+running egg_info
+creating load_img.egg-info
+writing load_img.egg-info/PKG-INFO
+writing dependency_links to load_img.egg-info/dependency_links.txt
+writing entry points to load_img.egg-info/entry_points.txt
+writing requirements to load_img.egg-info/requires.txt
+writing top-level names to load_img.egg-info/top_level.txt
+writing manifest file 'load_img.egg-info/SOURCES.txt'
+reading manifest file 'load_img.egg-info/SOURCES.txt'
+writing manifest file 'load_img.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/walter/ros2_ws/install/load_img/lib/python3.10/site-packages/load-img.egg-link (link to .)
+Installing cam_pub script to /home/walter/ros2_ws/install/load_img/lib/load_img
+Installing img_pub script to /home/walter/ros2_ws/install/load_img/lib/load_img
+Installing img_sub script to /home/walter/ros2_ws/install/load_img/lib/load_img
+Installing video_pub script to /home/walter/ros2_ws/install/load_img/lib/load_img
+
+Installed /home/walter/ros2_ws/build/load_img
+running symlink_data
+creating /home/walter/ros2_ws/install/load_img/share/ament_index
+creating /home/walter/ros2_ws/install/load_img/share/ament_index/resource_index
+creating /home/walter/ros2_ws/install/load_img/share/ament_index/resource_index/packages
+symbolically linking /home/walter/ros2_ws/build/load_img/resource/load_img -> /home/walter/ros2_ws/install/load_img/share/ament_index/resource_index/packages
+symbolically linking /home/walter/ros2_ws/build/load_img/package.xml -> /home/walter/ros2_ws/install/load_img/share/load_img

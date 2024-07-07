@@ -1,0 +1,24 @@
+running develop
+running egg_info
+creating control_motor.egg-info
+writing control_motor.egg-info/PKG-INFO
+writing dependency_links to control_motor.egg-info/dependency_links.txt
+writing entry points to control_motor.egg-info/entry_points.txt
+writing requirements to control_motor.egg-info/requires.txt
+writing top-level names to control_motor.egg-info/top_level.txt
+writing manifest file 'control_motor.egg-info/SOURCES.txt'
+reading manifest file 'control_motor.egg-info/SOURCES.txt'
+writing manifest file 'control_motor.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/walter/ros2_ws/install/control_motor/lib/python3.10/site-packages/control-motor.egg-link (link to .)
+Installing convert_protocol script to /home/walter/ros2_ws/install/control_motor/lib/control_motor
+Installing gen_control_data script to /home/walter/ros2_ws/install/control_motor/lib/control_motor
+Installing send_serial script to /home/walter/ros2_ws/install/control_motor/lib/control_motor
+
+Installed /home/walter/ros2_ws/build/control_motor
+running symlink_data
+creating /home/walter/ros2_ws/install/control_motor/share/ament_index
+creating /home/walter/ros2_ws/install/control_motor/share/ament_index/resource_index
+creating /home/walter/ros2_ws/install/control_motor/share/ament_index/resource_index/packages
+symbolically linking /home/walter/ros2_ws/build/control_motor/resource/control_motor -> /home/walter/ros2_ws/install/control_motor/share/ament_index/resource_index/packages
+symbolically linking /home/walter/ros2_ws/build/control_motor/package.xml -> /home/walter/ros2_ws/install/control_motor/share/control_motor

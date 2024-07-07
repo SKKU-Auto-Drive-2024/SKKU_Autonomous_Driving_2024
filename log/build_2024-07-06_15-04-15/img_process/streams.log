@@ -1,0 +1,18 @@
+[0.940s] Invoking command in '/home/walter/ros2_ws/build/img_process': PYTHONPATH=/home/walter/ros2_ws/build/img_process/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/walter/ros2_ws/install/img_process/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/walter/ros2_ws/build/img_process/build --no-deps symlink_data
+[1.275s] running develop
+[1.460s] running egg_info
+[1.460s] writing img_process.egg-info/PKG-INFO
+[1.461s] writing dependency_links to img_process.egg-info/dependency_links.txt
+[1.461s] writing entry points to img_process.egg-info/entry_points.txt
+[1.461s] writing requirements to img_process.egg-info/requires.txt
+[1.461s] writing top-level names to img_process.egg-info/top_level.txt
+[1.463s] reading manifest file 'img_process.egg-info/SOURCES.txt'
+[1.464s] writing manifest file 'img_process.egg-info/SOURCES.txt'
+[1.466s] running build_ext
+[1.466s] Creating /home/walter/ros2_ws/install/img_process/lib/python3.10/site-packages/img-process.egg-link (link to .)
+[1.467s] Installing img_grad script to /home/walter/ros2_ws/install/img_process/lib/img_process
+[1.467s] Installing img_post script to /home/walter/ros2_ws/install/img_process/lib/img_process
+[1.467s] 
+[1.467s] Installed /home/walter/ros2_ws/build/img_process
+[1.467s] running symlink_data
+[1.509s] Invoked command in '/home/walter/ros2_ws/build/img_process' returned '0': PYTHONPATH=/home/walter/ros2_ws/build/img_process/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/walter/ros2_ws/install/img_process/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/walter/ros2_ws/build/img_process/build --no-deps symlink_data

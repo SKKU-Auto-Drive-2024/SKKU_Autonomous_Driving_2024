@@ -1,0 +1,18 @@
+[0.887s] Invoking command in '/home/walter/ros2_ws/build/img_process': CMAKE_PREFIX_PATH=/home/walter/ros2_ws/install/interfaces_pkg:/home/walter/ros2_ws/src/install/interfaces_pkg:/home/walter/gcamp_ros2_ws/install/gcamp_gazebo LD_LIBRARY_PATH=/home/walter/ros2_ws/install/interfaces_pkg/lib:/home/walter/ros2_ws/src/install/interfaces_pkg/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib PYTHONPATH=/home/walter/ros2_ws/build/img_process/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/walter/ros2_ws/install/img_process/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/walter/ros2_ws/build/img_process/build --no-deps symlink_data
+[1.202s] running develop
+[1.388s] running egg_info
+[1.389s] writing img_process.egg-info/PKG-INFO
+[1.389s] writing dependency_links to img_process.egg-info/dependency_links.txt
+[1.389s] writing entry points to img_process.egg-info/entry_points.txt
+[1.389s] writing requirements to img_process.egg-info/requires.txt
+[1.389s] writing top-level names to img_process.egg-info/top_level.txt
+[1.391s] reading manifest file 'img_process.egg-info/SOURCES.txt'
+[1.392s] writing manifest file 'img_process.egg-info/SOURCES.txt'
+[1.393s] running build_ext
+[1.394s] Creating /home/walter/ros2_ws/install/img_process/lib/python3.10/site-packages/img-process.egg-link (link to .)
+[1.395s] Installing img_grad script to /home/walter/ros2_ws/install/img_process/lib/img_process
+[1.395s] Installing img_post script to /home/walter/ros2_ws/install/img_process/lib/img_process
+[1.395s] 
+[1.395s] Installed /home/walter/ros2_ws/build/img_process
+[1.395s] running symlink_data
+[1.437s] Invoked command in '/home/walter/ros2_ws/build/img_process' returned '0': CMAKE_PREFIX_PATH=/home/walter/ros2_ws/install/interfaces_pkg:/home/walter/ros2_ws/src/install/interfaces_pkg:/home/walter/gcamp_ros2_ws/install/gcamp_gazebo LD_LIBRARY_PATH=/home/walter/ros2_ws/install/interfaces_pkg/lib:/home/walter/ros2_ws/src/install/interfaces_pkg/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib PYTHONPATH=/home/walter/ros2_ws/build/img_process/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/walter/ros2_ws/install/img_process/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/walter/ros2_ws/build/img_process/build --no-deps symlink_data

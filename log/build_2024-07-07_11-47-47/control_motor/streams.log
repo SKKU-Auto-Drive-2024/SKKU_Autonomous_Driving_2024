@@ -1,0 +1,19 @@
+[0.657s] Invoking command in '/home/walter/ros2_ws/build/control_motor': PYTHONPATH=/home/walter/ros2_ws/build/control_motor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/walter/ros2_ws/install/control_motor/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/walter/ros2_ws/build/control_motor/build --no-deps symlink_data
+[0.840s] running develop
+[0.944s] running egg_info
+[0.945s] writing control_motor.egg-info/PKG-INFO
+[0.945s] writing dependency_links to control_motor.egg-info/dependency_links.txt
+[0.945s] writing entry points to control_motor.egg-info/entry_points.txt
+[0.945s] writing requirements to control_motor.egg-info/requires.txt
+[0.945s] writing top-level names to control_motor.egg-info/top_level.txt
+[0.946s] reading manifest file 'control_motor.egg-info/SOURCES.txt'
+[0.947s] writing manifest file 'control_motor.egg-info/SOURCES.txt'
+[0.947s] running build_ext
+[0.948s] Creating /home/walter/ros2_ws/install/control_motor/lib/python3.10/site-packages/control-motor.egg-link (link to .)
+[0.948s] Installing convert_protocol script to /home/walter/ros2_ws/install/control_motor/lib/control_motor
+[0.948s] Installing gen_control_data script to /home/walter/ros2_ws/install/control_motor/lib/control_motor
+[0.948s] Installing send_serial script to /home/walter/ros2_ws/install/control_motor/lib/control_motor
+[0.948s] 
+[0.948s] Installed /home/walter/ros2_ws/build/control_motor
+[0.948s] running symlink_data
+[0.973s] Invoked command in '/home/walter/ros2_ws/build/control_motor' returned '0': PYTHONPATH=/home/walter/ros2_ws/build/control_motor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/walter/ros2_ws/install/control_motor/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/walter/ros2_ws/build/control_motor/build --no-deps symlink_data

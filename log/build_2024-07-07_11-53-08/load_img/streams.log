@@ -1,0 +1,20 @@
+[0.641s] Invoking command in '/home/walter/ros2_ws/build/load_img': PYTHONPATH=/home/walter/ros2_ws/build/load_img/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/walter/ros2_ws/install/load_img/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/walter/ros2_ws/build/load_img/build --no-deps symlink_data
+[0.844s] running develop
+[1.021s] running egg_info
+[1.021s] writing load_img.egg-info/PKG-INFO
+[1.021s] writing dependency_links to load_img.egg-info/dependency_links.txt
+[1.021s] writing entry points to load_img.egg-info/entry_points.txt
+[1.021s] writing requirements to load_img.egg-info/requires.txt
+[1.021s] writing top-level names to load_img.egg-info/top_level.txt
+[1.022s] reading manifest file 'load_img.egg-info/SOURCES.txt'
+[1.022s] writing manifest file 'load_img.egg-info/SOURCES.txt'
+[1.023s] running build_ext
+[1.024s] Creating /home/walter/ros2_ws/install/load_img/lib/python3.10/site-packages/load-img.egg-link (link to .)
+[1.024s] Installing cam_pub script to /home/walter/ros2_ws/install/load_img/lib/load_img
+[1.024s] Installing img_pub script to /home/walter/ros2_ws/install/load_img/lib/load_img
+[1.025s] Installing img_sub script to /home/walter/ros2_ws/install/load_img/lib/load_img
+[1.026s] Installing video_pub script to /home/walter/ros2_ws/install/load_img/lib/load_img
+[1.026s] 
+[1.026s] Installed /home/walter/ros2_ws/build/load_img
+[1.026s] running symlink_data
+[1.062s] Invoked command in '/home/walter/ros2_ws/build/load_img' returned '0': PYTHONPATH=/home/walter/ros2_ws/build/load_img/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/walter/ros2_ws/install/load_img/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/walter/ros2_ws/build/load_img/build --no-deps symlink_data

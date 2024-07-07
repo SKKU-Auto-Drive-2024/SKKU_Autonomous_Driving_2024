@@ -1,0 +1,25 @@
+[1.099s] Invoking command in '/home/walter/ros2_ws/build/img_process': CMAKE_PREFIX_PATH=/home/walter/ros2_ws/install/interfaces_pkg:/home/walter/ros2_ws/src/install/interfaces_pkg:/home/walter/gcamp_ros2_ws/install/gcamp_gazebo LD_LIBRARY_PATH=/home/walter/ros2_ws/install/interfaces_pkg/lib:/home/walter/ros2_ws/src/install/interfaces_pkg/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib PYTHONPATH=/home/walter/ros2_ws/build/img_process/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/walter/ros2_ws/install/img_process/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/walter/ros2_ws/build/img_process/build --no-deps symlink_data
+[1.411s] running develop
+[1.590s] running egg_info
+[1.590s] creating img_process.egg-info
+[1.590s] writing img_process.egg-info/PKG-INFO
+[1.590s] writing dependency_links to img_process.egg-info/dependency_links.txt
+[1.590s] writing entry points to img_process.egg-info/entry_points.txt
+[1.590s] writing requirements to img_process.egg-info/requires.txt
+[1.590s] writing top-level names to img_process.egg-info/top_level.txt
+[1.591s] writing manifest file 'img_process.egg-info/SOURCES.txt'
+[1.591s] reading manifest file 'img_process.egg-info/SOURCES.txt'
+[1.591s] writing manifest file 'img_process.egg-info/SOURCES.txt'
+[1.593s] running build_ext
+[1.594s] Creating /home/walter/ros2_ws/install/img_process/lib/python3.10/site-packages/img-process.egg-link (link to .)
+[1.595s] Installing img_grad script to /home/walter/ros2_ws/install/img_process/lib/img_process
+[1.595s] Installing img_post script to /home/walter/ros2_ws/install/img_process/lib/img_process
+[1.596s] 
+[1.596s] Installed /home/walter/ros2_ws/build/img_process
+[1.596s] running symlink_data
+[1.596s] creating /home/walter/ros2_ws/install/img_process/share/ament_index
+[1.596s] creating /home/walter/ros2_ws/install/img_process/share/ament_index/resource_index
+[1.596s] creating /home/walter/ros2_ws/install/img_process/share/ament_index/resource_index/packages
+[1.596s] symbolically linking /home/walter/ros2_ws/build/img_process/resource/img_process -> /home/walter/ros2_ws/install/img_process/share/ament_index/resource_index/packages
+[1.597s] symbolically linking /home/walter/ros2_ws/build/img_process/package.xml -> /home/walter/ros2_ws/install/img_process/share/img_process
+[1.651s] Invoked command in '/home/walter/ros2_ws/build/img_process' returned '0': CMAKE_PREFIX_PATH=/home/walter/ros2_ws/install/interfaces_pkg:/home/walter/ros2_ws/src/install/interfaces_pkg:/home/walter/gcamp_ros2_ws/install/gcamp_gazebo LD_LIBRARY_PATH=/home/walter/ros2_ws/install/interfaces_pkg/lib:/home/walter/ros2_ws/src/install/interfaces_pkg/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib PYTHONPATH=/home/walter/ros2_ws/build/img_process/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/walter/ros2_ws/install/img_process/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/walter/ros2_ws/build/img_process/build --no-deps symlink_data

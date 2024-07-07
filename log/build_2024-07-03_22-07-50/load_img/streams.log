@@ -1,0 +1,27 @@
+[1.157s] Invoking command in '/home/walter/ros2_ws/build/load_img': PYTHONPATH=/home/walter/ros2_ws/build/load_img/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/walter/ros2_ws/install/load_img/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/walter/ros2_ws/build/load_img/build --no-deps symlink_data
+[1.484s] running develop
+[1.668s] running egg_info
+[1.668s] creating load_img.egg-info
+[1.669s] writing load_img.egg-info/PKG-INFO
+[1.669s] writing dependency_links to load_img.egg-info/dependency_links.txt
+[1.669s] writing entry points to load_img.egg-info/entry_points.txt
+[1.669s] writing requirements to load_img.egg-info/requires.txt
+[1.669s] writing top-level names to load_img.egg-info/top_level.txt
+[1.669s] writing manifest file 'load_img.egg-info/SOURCES.txt'
+[1.671s] reading manifest file 'load_img.egg-info/SOURCES.txt'
+[1.672s] writing manifest file 'load_img.egg-info/SOURCES.txt'
+[1.674s] running build_ext
+[1.674s] Creating /home/walter/ros2_ws/install/load_img/lib/python3.10/site-packages/load-img.egg-link (link to .)
+[1.675s] Installing cam_pub script to /home/walter/ros2_ws/install/load_img/lib/load_img
+[1.675s] Installing img_pub script to /home/walter/ros2_ws/install/load_img/lib/load_img
+[1.675s] Installing img_sub script to /home/walter/ros2_ws/install/load_img/lib/load_img
+[1.676s] Installing video_pub script to /home/walter/ros2_ws/install/load_img/lib/load_img
+[1.676s] 
+[1.676s] Installed /home/walter/ros2_ws/build/load_img
+[1.676s] running symlink_data
+[1.676s] creating /home/walter/ros2_ws/install/load_img/share/ament_index
+[1.676s] creating /home/walter/ros2_ws/install/load_img/share/ament_index/resource_index
+[1.676s] creating /home/walter/ros2_ws/install/load_img/share/ament_index/resource_index/packages
+[1.677s] symbolically linking /home/walter/ros2_ws/build/load_img/resource/load_img -> /home/walter/ros2_ws/install/load_img/share/ament_index/resource_index/packages
+[1.677s] symbolically linking /home/walter/ros2_ws/build/load_img/package.xml -> /home/walter/ros2_ws/install/load_img/share/load_img
+[1.737s] Invoked command in '/home/walter/ros2_ws/build/load_img' returned '0': PYTHONPATH=/home/walter/ros2_ws/build/load_img/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/walter/ros2_ws/install/load_img/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/walter/ros2_ws/build/load_img/build --no-deps symlink_data
